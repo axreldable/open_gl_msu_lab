@@ -2,7 +2,7 @@
 #include <cstdio>
 #include "SOIL.h"
 
-// g++ main_texture.cpp -lGL -lGLU -lglut -lSOIL
+// g++ main.cpp -lGL -lGLU -lglut -lSOIL
 
 GLfloat xRotated, yRotated, zRotated;
 GLdouble size = 1;
